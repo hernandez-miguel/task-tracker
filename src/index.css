@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color-scheme: light dark;
+  color: whitesmoke;
+  background-color: #242424;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  line-height: 1.5;
+  font-size: 1rem;
+}
